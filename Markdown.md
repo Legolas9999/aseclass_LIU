@@ -9,3 +9,6 @@
 ##Hi, this is LIU.
 My lab's name is CS-lab which is located in 6 floor of A1 building.
 And my research is sth about the quantum computing, quite hard www.
+
+## Dependable Systems Laboratory
+ディペンダブル(Dependable)とは「頼りがいのある」という意味で，フォールトトレランスとフォールトアボイダンスの概念の 統合により一般化された高信頼性の概念として世界的に使われています．現在の主な研究分野は，フォールトトレラントシステム理論， ソフトウェア信頼性理論，ソフトウェアテスト理論，性能評価理論などであり，高信頼化システムの構築を実現するための基礎理論に ついて研究を行っています．
