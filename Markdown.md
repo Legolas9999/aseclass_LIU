@@ -1,5 +1,3 @@
-Hello World is written by LIU
-
 ## 情報数理研究室古居グループ
 生体機能を理論と実験の両面から解析・モデル化することで，ヒトの身体の隠れた性質を解き明かし，様々な応用技術に繋げることを目指しています．具体的には，統計的信号処理や確率・統計理論，機械学習の手法を活用し，ヒトを中心とした様々な研究テーマに取り組んでいます．
 ## Network/Security R&D Group
@@ -7,3 +5,7 @@ Hello World is written by LIU
 情報システムの複雑・多様化が進んでいます。これからのネットワーク技術，
 セキュリティ技術，情報システムのあるべき姿を研究対象とし，
 要素技術や実運用を考慮した研究開発を行います
+
+##Hi, this is LIU.
+My lab's name is CS-lab which is located in 6 floor of A1 building.
+And my research is sth about the quantum computing, quite hard www.
